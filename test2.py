@@ -1,6 +1,0 @@
-print('Hi apple')
-hello("hi banana")
-print("hi cat")
-print("hi d")
-print("hi eat")
-print('hi fox')
